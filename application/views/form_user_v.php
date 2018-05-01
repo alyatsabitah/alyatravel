@@ -4,7 +4,7 @@
 	<title>Form Input - User</title>
 </head>
 <body>
-	<form action="http://localhost/travel/index.php/user/add" method="POST">
+	<form action="http://localhost/alyatravel/index.php/user/add" method="POST">
 	Username<br/>
 	<input type="text" name="username"><br/>
 	Password<br/>
